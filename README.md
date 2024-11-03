@@ -56,13 +56,17 @@ pdflatex -output-directory=_build main.tex
 
 1. Descargue este repositorio (https://github.com/aretesatori/horario-de-clases) como un archivo comprimido ("Download ZIP").
 
+<p align="center">
+    <img src="img/download-zip-github.png" alt="Download Repository GitHub" width="60%"/>
+</p>
+
 2. Ingrese a [Overleaf](https://www.overleaf.com/). Cree una cuenta o realice login con su cuenta existente.
 
 3. En Overleaf, suba el archivo descargado en el paso 1.
 
 En la página principal de proyectos, una vez accedida con su cuenta, haga clic en el botón ubicado en la esquina superior izquierda:
 
-> "**New Project**" > "**Upload Project**"
+> **New Project** > **Upload Project**
 
 <p align="center">
     <img src="img/upload-project-overleaf.png" alt="Upload Project Overleaf" width="60%"/>
@@ -74,7 +78,7 @@ Luego, suba el archivo comprimido (`horario-de-clases-main.zip`).
     <img src="img/upload-zip-overleaf.png" alt="Upload ZIP File Overleaf" width="60%"/>
 </p>
 
-4. Una vez cargado el archivo, Overleaf debería identificar el archivo principal `.tex` y mostrar la estructura del repositorio al lado izquierdo.
+4. Una vez cargado el archivo, Overleaf debería identificar el archivo principal `main.tex` y mostrar la estructura del repositorio al lado izquierdo.
 
 <p align="center">
     <img src="img/overleaf-edit.png" alt="Overleaf Project Structure" width="60%"/>
